@@ -1,0 +1,781 @@
+,domain_name,country,product_line,value_type,value,ticker
+0,maersk.com,Denmark,DAP - CLM,initiatives,Enhancing technology procurement process and contract management,AMKBY
+1,maersk.com,Denmark,DAP - CLM,initiatives,Improving cost efficiency and spend management in IT procurement,AMKBY
+2,maersk.com,Denmark,DAP - CLM,initiatives,Streamlining supplier engagement and negotiation processes,AMKBY
+3,maersk.com,Denmark,DAP - CLM,initiatives,Enhancing stakeholder management and communication in IT procurement,AMKBY
+4,maersk.com,Guatemala,DAP - CLM,initiatives,Enhancing supply chain efficiency and agility,AMKBY
+5,maersk.com,Guatemala,DAP - CLM,initiatives,Improving procurement process and compliance,AMKBY
+6,maersk.com,Guatemala,DAP - CLM,initiatives,Optimizing inventory management and delivery times,AMKBY
+7,maersk.com,Guatemala,DAP - CLM,initiatives,Driving cost savings and P&L improvement,AMKBY
+8,maersk.com,Guatemala,DAP - CLM,initiatives,Enabling collaboration with Asset Maintenance for supply chain optimization,AMKBY
+9,maersk.com,Guatemala,DAP - CLM,initiatives,Consolidating spend across regions for efficient leverage,AMKBY
+10,maersk.com,Guatemala,DAP - CLM,initiatives,Supporting APMT CAPEX initiatives for competitiveness and timely delivery,AMKBY
+11,maersk.com,Guatemala,DAP - CLM,initiatives,Leading continued transformation and growth opportunities,AMKBY
+12,maersk.com,China,DAP - CLM,initiatives,Standardize and optimize Depot and EMR Procurement processes,AMKBY
+13,maersk.com,China,DAP - CLM,initiatives,Enhance cost ownership and drive cost leadership,AMKBY
+14,maersk.com,China,DAP - CLM,initiatives,Support operations to solve disruption and gain efficiency from execution of the contracts,AMKBY
+15,maersk.com,China,DAP - CLM,initiatives,Develop and roll out and optimize effective business and engagement model to support customer centricity,AMKBY
+16,maersk.com,China,DAP - CLM,initiatives,Support Procurement projects for areas and countries where needed,AMKBY
+17,maersk.com,India,DAP - CLM,initiatives,Efficient handling of multi-regional customer Requests for Quote (RFQ),AMKBY
+18,maersk.com,India,DAP - CLM,initiatives,Streamlining product strategy and pricing processes,AMKBY
+19,maersk.com,India,DAP - CLM,initiatives,Driving annual top-line and volume growth for the product,AMKBY
+20,maersk.com,India,DAP - CLM,initiatives,Collaborating with sales enablement team and product BPO for updated sales material,AMKBY
+21,maersk.com,India,DAP - CLM,initiatives,Enhancing customer experience and engagement,AMKBY
+22,maersk.com,Denmark,DAP - CLM,team,Maersk IT/Tech Procurement team,AMKBY
+23,maersk.com,Guatemala,DAP - CLM,team,Procurement team,AMKBY
+24,maersk.com,Guatemala,DAP - CLM,team,Asset Maintenance team,AMKBY
+25,maersk.com,China,DAP - CLM,team,Asia Pacific Ocean Procurement team,AMKBY
+26,maersk.com,India,DAP - CLM,team,Regional Head of Growth and Solutions,AMKBY
+27,maersk.com,India,DAP - CLM,team,CHB Procurement Manager,AMKBY
+28,maersk.com,Denmark,DAP - CLM,positioning,Whatfix DAP provides in-app guidance and analytics for efficient technology procurement,AMKBY
+29,maersk.com,Denmark,DAP - CLM,positioning,Whatfix supports stakeholder engagement and communication for streamlined supplier negotiation,AMKBY
+30,maersk.com,Denmark,DAP - CLM,positioning,Whatfix enhances user proficiency in contract management processes for global impact,AMKBY
+31,maersk.com,Guatemala,DAP - CLM,positioning,In-app guidance and analytics for supply chain efficiency,AMKBY
+32,maersk.com,Guatemala,DAP - CLM,positioning,Self-help resources for procurement process compliance,AMKBY
+33,maersk.com,Guatemala,DAP - CLM,positioning,Improving user proficiency in inventory management and delivery,AMKBY
+34,maersk.com,Guatemala,DAP - CLM,positioning,Driving cost savings through efficient procurement strategies,AMKBY
+35,maersk.com,Guatemala,DAP - CLM,positioning,Enabling collaboration and optimization with Asset Maintenance,AMKBY
+36,maersk.com,Guatemala,DAP - CLM,positioning,Supporting spend consolidation across regions for efficiency,AMKBY
+37,maersk.com,Guatemala,DAP - CLM,positioning,Facilitating digital transformation for APMT CAPEX initiatives,AMKBY
+38,maersk.com,Guatemala,DAP - CLM,positioning,Driving transformation and growth through user adoption and proficiency,AMKBY
+39,maersk.com,China,DAP - CLM,positioning,Whatfix DAP can provide in-app guidance and self-help resources for standardizing and optimizing procurement processes,AMKBY
+40,maersk.com,China,DAP - CLM,positioning,Analytics can help in enhancing cost ownership and driving cost leadership,AMKBY
+41,maersk.com,China,DAP - CLM,positioning,In-app guidance can support operations in solving disruptions and gaining efficiency in contract execution,AMKBY
+42,maersk.com,China,DAP - CLM,positioning,Whatfix DAP can aid in optimizing business and engagement models to support customer centricity,AMKBY
+43,maersk.com,China,DAP - CLM,positioning,In-app guidance and analytics can support procurement projects in various areas and countries,AMKBY
+44,maersk.com,India,DAP - CLM,positioning,In-app guidance and self-help resources for efficient RFQ handling,AMKBY
+45,maersk.com,India,DAP - CLM,positioning,Analytics for streamlining product strategy and pricing processes,AMKBY
+46,maersk.com,India,DAP - CLM,positioning,Enhanced end-user adoption and proficiency for driving growth,AMKBY
+47,maersk.com,India,DAP - CLM,positioning,Support for maintaining updated sales material and conducting training events,AMKBY
+48,maersk.com,India,DAP - CLM,positioning,Improving customer experience and engagement through better product adoption,AMKBY
+49,alcon.com,United States,DAP - CRM,initiatives,Enhancing sales training and development programs for surgical products,ALC
+50,alcon.com,United States,DAP - CRM,initiatives,Improving technical product knowledge and clinical application for sales representatives,ALC
+51,alcon.com,United States,DAP - CRM,initiatives,"Supporting sales meetings, major conventions, and product launches globally",ALC
+52,aig.com,China,DAP - CRM,initiatives,Enhancing agent productivity and efficiency through in-app guidance and training,AIG
+53,aig.com,China,DAP - CRM,initiatives,Improving sales penetration and submission activities with interactive aids and smart tips,AIG
+54,aig.com,China,DAP - CRM,initiatives,Increasing agent proficiency and adoption rates through no-code visual editor for CRM,AIG
+55,aig.com,China,DAP - CRM,initiatives,Maintaining strong relationships with agents and brokers through frequent interaction and personalized guidance,AIG
+56,cisco.com,Canada,DAP - CRM,initiatives,Accelerating customer adoption lifecycle for Cisco's entire portfolio of products and services,CSCO
+57,cisco.com,Canada,DAP - CRM,initiatives,Delivering value to customers and accelerating them to their desired business outcomes,CSCO
+58,cisco.com,Canada,DAP - CRM,initiatives,"Improving customer sentiment, adoption, retention, and growth",CSCO
+59,cisco.com,Canada,DAP - CRM,initiatives,Bringing together teams to engage customers and help them realize business value faster,CSCO
+60,cisco.com,Singapore,DAP - CRM,initiatives,Sales acceleration and execution of Cisco's solutions and services in APJC,CSCO
+61,cisco.com,Singapore,DAP - CRM,initiatives,Driving growth and profitability in the India and ASEAN theatres,CSCO
+62,cisco.com,Singapore,DAP - CRM,initiatives,Enhancing CRM software usability and adoption rates for large and complex accounts,CSCO
+63,cisco.com,Singapore,DAP - CRM,initiatives,Improving user proficiency and adoption rates for Cisco's Collaboration solutions,CSCO
+64,cisco.com,Singapore,DAP - CRM,initiatives,"Driving pipeline growth, renewals, and new business expansion through SaaS tools and CRM",CSCO
+65,cisco.com,Singapore,DAP - CRM,initiatives,Developing and executing sales strategies to drive sales of Cisco-based Managed Services with S/MSPs,CSCO
+66,firstcitizens.com,United States,DAP - CRM,initiatives,Enhancing user proficiency and adoption rates for CRM software,FCNCA
+67,firstcitizens.com,United States,DAP - CRM,initiatives,Improving sales origination and business development processes,FCNCA
+68,firstcitizens.com,United States,DAP - CRM,initiatives,Enhancing relationship management with Tier 1 & 2 companies,FCNCA
+69,firstcitizens.com,United States,DAP - CRM,initiatives,Improving cross-selling of the SVB product platform,FCNCA
+70,firstcitizens.com,United States,DAP - CRM,initiatives,Ensuring highest credit quality for new relationships,FCNCA
+71,firstcitizens.com,United States,DAP - CRM,initiatives,Closely tracking all sales activity in CRM database,FCNCA
+72,firstcitizens.com,United States,DAP - CRM,initiatives,Leveraging sub-sector insights nationally to make informed risk decisions,FCNCA
+73,firstcitizens.com,United States,DAP - CRM,initiatives,Launching and supporting ideas and vision in banking and financial services,FCNCA
+74,cisco.com,United States,DAP - CRM,initiatives,Sales process optimization and automation,CSCO
+75,cisco.com,United States,DAP - CRM,initiatives,Enhancing customer experience and engagement,CSCO
+76,cisco.com,United States,DAP - CRM,initiatives,Improving sales team productivity and efficiency,CSCO
+77,alcon.com,China,DAP - CRM,initiatives,Sales process optimization through data-driven insights,ALC
+78,alcon.com,China,DAP - CRM,initiatives,Enhancing customer experience and support for surgical products,ALC
+79,alcon.com,China,DAP - CRM,initiatives,Improving sales team productivity and effectiveness through targeted training,ALC
+80,alcon.com,China,DAP - CRM,initiatives,Driving sales performance analysis and incentive management,ALC
+81,alcon.com,China,DAP - CRM,initiatives,Ensuring alignment and standardization of go-to-market strategies,ALC
+82,cisco.com,Japan,DAP - CRM,initiatives,"Promote hybrid work by expanding Web conferencing, chat, video devices, cloud calling, and contact center services globally.",CSCO
+83,cisco.com,Japan,DAP - CRM,initiatives,"Develop Cisco's ability to identify, quantify, qualify, and maximize opportunities addressing customer Collaboration needs.",CSCO
+84,cisco.com,Japan,DAP - CRM,initiatives,Build and execute an innovative long-range business plan for Japan Collaboration Business.,CSCO
+85,cisco.com,Japan,DAP - CRM,initiatives,"Understand, articulate, and position Cisco's end-to-end Collaboration Architecture and Services incorporating Software and services.",CSCO
+86,cisco.com,Japan,DAP - CRM,initiatives,"Develop Go-to-Market strategies to grow collaboration across large accounts, SMB, and Partners.",CSCO
+87,cisco.com,Japan,DAP - CRM,initiatives,"Deliver business value to select opportunities for the account, partner, eco-system, and Cisco account team.",CSCO
+88,cisco.com,Japan,DAP - CRM,initiatives,"Incubate and cultivate senior level relationships with key customers, partners, and eco-system vendors to executive level across the region.",CSCO
+89,cisco.com,Japan,DAP - CRM,initiatives,"Establish a strong team, collaborative market development, and selling approach.",CSCO
+90,cisco.com,Japan,DAP - CRM,initiatives,"Lead, influence, and mentor sales teams to increase their effectiveness in selling Collaboration solutions.",CSCO
+91,maersk.com,Thailand,DAP - CRM,initiatives,Enhance customer satisfaction and business growth in Asia Pacific region,AMKBY
+92,maersk.com,Thailand,DAP - CRM,initiatives,Lead customer transformation and value-adding projects in the customer supply chain,AMKBY
+93,maersk.com,Thailand,DAP - CRM,initiatives,Orchestrate strategic operations and drive process standardization/efficiency,AMKBY
+94,maersk.com,Thailand,DAP - CRM,initiatives,Enable sharing of operational expertise and knowledge within the community,AMKBY
+95,maersk.com,Thailand,DAP - CRM,initiatives,"Engage with Commercial, Operational, and Product experts to explore additional business",AMKBY
+96,maersk.com,Nigeria,DAP - CRM,initiatives,Enhancing customer relationship management for port operations and container management services,AMKBY
+97,maersk.com,Nigeria,DAP - CRM,initiatives,Improving sales team productivity and performance management through digital tools,AMKBY
+98,maersk.com,Nigeria,DAP - CRM,initiatives,Streamlining and optimizing sales processes with in-app guidance and training,AMKBY
+99,maersk.com,Nigeria,DAP - CRM,initiatives,Ensuring real-time visibility of sales teams performance and pipeline size through Salesforce,AMKBY
+100,maersk.com,Nigeria,DAP - CRM,initiatives,Providing constant performance management and coaching tools for sales leaders,AMKBY
+101,alcon.com,United States,DAP - CRM,team,Global Sales Training Team,ALC
+102,alcon.com,United States,DAP - CRM,team,Regional Sales Training Managers,ALC
+103,alcon.com,United States,DAP - CRM,team,International Sales Training and Marketing (IMG) teams,ALC
+104,aig.com,China,DAP - CRM,team,Sales Channel Practices,AIG
+105,aig.com,China,DAP - CRM,team,Campaign and Communication Team,AIG
+106,aig.com,China,DAP - CRM,team,Service Centers and Product Towers,AIG
+107,cisco.com,Canada,DAP - CRM,team,Customer Experience (CX) organization,CSCO
+108,cisco.com,Canada,DAP - CRM,team,CX Field teams,CSCO
+109,cisco.com,Canada,DAP - CRM,team,Business Unit (Product) Organizations,CSCO
+110,cisco.com,Canada,DAP - CRM,team,"Sales, Renewals, and Partner Organizations",CSCO
+111,cisco.com,Canada,DAP - CRM,team,CX Product Management,CSCO
+112,cisco.com,Singapore,DAP - CRM,team,APJC Partner & Route to Market Sales,CSCO
+113,cisco.com,Singapore,DAP - CRM,team,India and ASEAN Sales Leadership,CSCO
+114,cisco.com,Singapore,DAP - CRM,team,Collaboration Sales Team,CSCO
+115,cisco.com,Singapore,DAP - CRM,team,Managed Services Sales Team,CSCO
+116,firstcitizens.com,United States,DAP - CRM,team,Sales Origination Team,FCNCA
+117,firstcitizens.com,United States,DAP - CRM,team,Relationship Management Team,FCNCA
+118,firstcitizens.com,United States,DAP - CRM,team,Credit Solutions Team,FCNCA
+119,firstcitizens.com,United States,DAP - CRM,team,SVB Relationship Team,FCNCA
+120,cisco.com,United States,DAP - CRM,team,Global Sales Administration and the Global ADR team,CSCO
+121,cisco.com,United States,DAP - CRM,team,Customer Success organization,CSCO
+122,cisco.com,United States,DAP - CRM,team,Meraki Sales team,CSCO
+123,alcon.com,China,DAP - CRM,team,Commercial Excellence Solutions Team,ALC
+124,alcon.com,China,DAP - CRM,team,Sales Operations Team,ALC
+125,alcon.com,China,DAP - CRM,team,Customer Service Team,ALC
+126,cisco.com,Japan,DAP - CRM,team,Collaboration Sales Team,CSCO
+127,cisco.com,Japan,DAP - CRM,team,Marketing Team,CSCO
+128,cisco.com,Japan,DAP - CRM,team,Partners,CSCO
+129,cisco.com,Japan,DAP - CRM,team,Cisco Business Units,CSCO
+130,maersk.com,Thailand,DAP - CRM,team,Customer Experience (CX) community,AMKBY
+131,maersk.com,Thailand,DAP - CRM,team,Client Program Management team,AMKBY
+132,maersk.com,Nigeria,DAP - CRM,team,Commercial department,AMKBY
+133,maersk.com,Nigeria,DAP - CRM,team,Sales operations management team,AMKBY
+134,cisco.com,Singapore,DAP - CRM,tools,SaaS tools,CSCO
+135,cisco.com,Singapore,DAP - CRM,tools,CRM,CSCO
+136,cisco.com,United States,DAP - CRM,tools,Salesforce.com,CSCO
+137,cisco.com,United States,DAP - CRM,tools,MS Office Suite,CSCO
+138,alcon.com,China,DAP - CRM,tools,SFDC (Salesforce),ALC
+139,alcon.com,China,DAP - CRM,tools,Pitcher,ALC
+140,alcon.com,China,DAP - CRM,tools,SAP,ALC
+141,alcon.com,China,DAP - CRM,tools,CRM (Customer Relationship Management) system,ALC
+142,cisco.com,Japan,DAP - CRM,tools,Webex (Collaboration),CSCO
+143,maersk.com,Nigeria,DAP - CRM,tools,Salesforce,AMKBY
+144,maersk.com,Nigeria,DAP - CRM,tools,Whatfix Digital Adoption Platform (DAP) for CRM,AMKBY
+145,alcon.com,United States,DAP - CRM,positioning,Whatfix DAP for CRM can provide in-app guidance and training for sales training programs,ALC
+146,alcon.com,United States,DAP - CRM,positioning,Enhance user proficiency and adoption rates for technical product knowledge and clinical application,ALC
+147,alcon.com,United States,DAP - CRM,positioning,Improve consistency and quality of training delivery across different geographies,ALC
+148,aig.com,China,DAP - CRM,positioning,Whatfix DAP enhances agent productivity and efficiency through in-app guidance and training,AIG
+149,aig.com,China,DAP - CRM,positioning,Improves sales penetration and submission activities with interactive aids and smart tips,AIG
+150,aig.com,China,DAP - CRM,positioning,Increases agent proficiency and adoption rates through no-code visual editor for CRM,AIG
+151,aig.com,China,DAP - CRM,positioning,Maintains strong relationships with agents and brokers through personalized guidance,AIG
+152,cisco.com,Canada,DAP - CRM,positioning,Whatfix DAP for CRM can provide in-app guidance and training to accelerate customer adoption lifecycle,CSCO
+153,cisco.com,Canada,DAP - CRM,positioning,Enhance usability of Cisco's entire portfolio by providing interactive aids and smart tips,CSCO
+154,cisco.com,Canada,DAP - CRM,positioning,Improve customer sentiment and retention through no-code Visual Editor for creating interactive aids,CSCO
+155,cisco.com,Canada,DAP - CRM,positioning,Drive customer value realization and business outcomes through improved user proficiency and adoption rates,CSCO
+156,cisco.com,Singapore,DAP - CRM,positioning,Whatfix DAP enhances CRM usability and adoption for large and complex accounts,CSCO
+157,cisco.com,Singapore,DAP - CRM,positioning,Provides in-app guidance and training for Cisco's Collaboration solutions,CSCO
+158,cisco.com,Singapore,DAP - CRM,positioning,"Drives pipeline growth, renewals, and new business expansion through SaaS tools and CRM",CSCO
+159,firstcitizens.com,United States,DAP - CRM,positioning,Whatfix DAP provides in-app guidance and training for CRM software,FCNCA
+160,firstcitizens.com,United States,DAP - CRM,positioning,"No-code Visual Editor creates interactive aids such as Flows, Task Lists, and Smart Tips",FCNCA
+161,firstcitizens.com,United States,DAP - CRM,positioning,Improves user proficiency and adoption rates,FCNCA
+162,firstcitizens.com,United States,DAP - CRM,positioning,Enables close tracking of sales activity in CRM database,FCNCA
+163,firstcitizens.com,United States,DAP - CRM,positioning,Facilitates leveraging sub-sector insights for informed risk decisions,FCNCA
+164,cisco.com,United States,DAP - CRM,positioning,Whatfix DAP provides in-app guidance for process optimization and automation,CSCO
+165,cisco.com,United States,DAP - CRM,positioning,Enhances user proficiency and adoption rates for improved customer engagement,CSCO
+166,cisco.com,United States,DAP - CRM,positioning,Enables training and support for sales teams to drive productivity and efficiency,CSCO
+167,alcon.com,China,DAP - CRM,positioning,Whatfix DAP provides in-app guidance for sales process optimization and training,ALC
+168,alcon.com,China,DAP - CRM,positioning,Enhances user proficiency in CRM and sales tools for improved customer support,ALC
+169,alcon.com,China,DAP - CRM,positioning,Enables targeted training and onboarding for improved sales team productivity,ALC
+170,alcon.com,China,DAP - CRM,positioning,Provides in-app guidance for sales performance analysis and incentive management,ALC
+171,alcon.com,China,DAP - CRM,positioning,Facilitates standardization and alignment of go-to-market strategies through in-app guidance,ALC
+172,cisco.com,Japan,DAP - CRM,positioning,Whatfix DAP for CRM enhances usability by providing in-app guidance and training.,CSCO
+173,cisco.com,Japan,DAP - CRM,positioning,"Improves user proficiency and adoption rates through interactive aids such as Flows, Task Lists, and Smart Tips.",CSCO
+174,cisco.com,Japan,DAP - CRM,positioning,Enables building and executing innovative long-range business plans for collaboration business.,CSCO
+175,cisco.com,Japan,DAP - CRM,positioning,"Helps in understanding, articulating, and positioning end-to-end Collaboration Architecture and Services.",CSCO
+176,cisco.com,Japan,DAP - CRM,positioning,Aids in developing Go-to-Market strategies to grow collaboration across accounts and partners.,CSCO
+177,cisco.com,Japan,DAP - CRM,positioning,Assists in delivering business value to select opportunities and establishing strong team collaboration.,CSCO
+178,cisco.com,Japan,DAP - CRM,positioning,"Facilitates leading, influencing, and mentoring sales teams to increase their effectiveness.",CSCO
+179,maersk.com,Thailand,DAP - CRM,positioning,Whatfix DAP enhances CRM usability with in-app guidance and training,AMKBY
+180,maersk.com,Thailand,DAP - CRM,positioning,Improves user proficiency and adoption rates,AMKBY
+181,maersk.com,Thailand,DAP - CRM,positioning,Enables strategic operations and process standardization,AMKBY
+182,maersk.com,Thailand,DAP - CRM,positioning,Facilitates sharing of operational expertise within the community,AMKBY
+183,maersk.com,Thailand,DAP - CRM,positioning,Aids in exploring and implementing additional business initiatives,AMKBY
+184,maersk.com,Nigeria,DAP - CRM,positioning,Whatfix DAP for CRM enhances customer relationship management for port operations and container management services,AMKBY
+185,maersk.com,Nigeria,DAP - CRM,positioning,Improves sales team productivity and performance management through in-app guidance and training,AMKBY
+186,maersk.com,Nigeria,DAP - CRM,positioning,Enables real-time visibility of sales teams performance and pipeline size through Salesforce integration,AMKBY
+187,maersk.com,Nigeria,DAP - CRM,positioning,Provides constant performance management and coaching tools for sales leaders,AMKBY
+188,maersk.com,Nigeria,DAP - CRM,positioning,"Streamlines and optimizes sales processes with interactive aids such as Flows, Task Lists, and Smart Tips",AMKBY
+189,alcon.com,Poland,DAP - ERP,initiatives,Global transformation & implementation projects for ERP and process changes,ALC
+190,alcon.com,Poland,DAP - ERP,initiatives,Enhancements to ERP systems to improve functionality and automation,ALC
+191,alcon.com,Poland,DAP - ERP,initiatives,Roll-out of policies and procedures related to cross-functional processes globally,ALC
+192,alcon.com,Poland,DAP - ERP,initiatives,Development and management of integrated roadmap for cross-functional process area,ALC
+193,alcon.com,Poland,DAP - ERP,initiatives,Critical Global Cross-Functional Transformation initiatives for end-to-end process area,ALC
+194,maersk.com,India,DAP - ERP,initiatives,Optimizing transportation logistics and improving financial process automation,AMKBY
+195,maersk.com,India,DAP - ERP,initiatives,"Enhancing controls, reducing complexity, and streamlining end-to-end financial processes",AMKBY
+196,varian.com,United States,DAP - ERP,initiatives,Global Supplier Quality Management,VAR
+197,varian.com,United States,DAP - ERP,initiatives,Strategic Initiatives for FOCUS25,VAR
+198,maersk.com,Netherlands,DAP - ERP,initiatives,Enhancing global AM processes and compliance,AMKBY
+199,maersk.com,Netherlands,DAP - ERP,initiatives,Improving user adoption and support at terminals,AMKBY
+200,maersk.com,Netherlands,DAP - ERP,initiatives,Implementing Digital AM organization and IFS10 benefits,AMKBY
+201,maersk.com,Netherlands,DAP - ERP,initiatives,Driving change management and process improvements,AMKBY
+202,maersk.com,Mexico,DAP - ERP,initiatives,Tax compliance and reporting for APMM entities in LATAM,AMKBY
+203,maersk.com,Mexico,DAP - ERP,initiatives,Finance transformation and migration of processes,AMKBY
+204,maersk.com,Mexico,DAP - ERP,initiatives,Global HR organization building and talent acquisition,AMKBY
+205,maersk.com,Mexico,DAP - ERP,initiatives,Stabilizing new processes and setting up performance metrics,AMKBY
+206,alcon.com,Poland,DAP - ERP,team,Global Process Owners,ALC
+207,alcon.com,Poland,DAP - ERP,team,Subject Matter Experts,ALC
+208,alcon.com,Poland,DAP - ERP,team,Application Owners (Business and IT),ALC
+209,alcon.com,Poland,DAP - ERP,team,Lean Six Sigma experts,ALC
+210,alcon.com,Poland,DAP - ERP,team,IT experts,ALC
+211,maersk.com,India,DAP - ERP,team,PTP (Procure to Pay) product team,AMKBY
+212,maersk.com,India,DAP - ERP,team,"Finance, IT, and operations teams",AMKBY
+213,varian.com,United States,DAP - ERP,team,Supply Chain Quality Team,VAR
+214,varian.com,United States,DAP - ERP,team,Strategic Initiatives Team,VAR
+215,maersk.com,Netherlands,DAP - ERP,team,AM Business Process Owner (BPO),AMKBY
+216,maersk.com,Netherlands,DAP - ERP,team,Global AM team,AMKBY
+217,maersk.com,Netherlands,DAP - ERP,team,AM Portfolio Managers,AMKBY
+218,maersk.com,Netherlands,DAP - ERP,team,TECH/IT Owner,AMKBY
+219,maersk.com,Netherlands,DAP - ERP,team,Terminal maintenance teams,AMKBY
+220,maersk.com,Netherlands,DAP - ERP,team,Terminal leadership,AMKBY
+221,maersk.com,Netherlands,DAP - ERP,team,Other BPOs and FPOs in their functional areas,AMKBY
+222,maersk.com,Mexico,DAP - ERP,team,Tax Operations Team,AMKBY
+223,maersk.com,Mexico,DAP - ERP,team,Finance Transformation Team,AMKBY
+224,maersk.com,Mexico,DAP - ERP,team,Global HR Organization Team,AMKBY
+225,maersk.com,Mexico,DAP - ERP,team,Transition Function Team,AMKBY
+226,alcon.com,Poland,DAP - ERP,tools,SAP,ALC
+227,alcon.com,Poland,DAP - ERP,tools,Other ERP Applications,ALC
+228,alcon.com,Poland,DAP - ERP,tools,Agile/Scrum/Waterfall/Sprint methodologies,ALC
+229,varian.com,United States,DAP - ERP,tools,"HCM (e.g., Workday) or equivalent ERP product and productivity software",VAR
+230,varian.com,United States,DAP - ERP,tools,"Microsoft Word, Excel, PowerPoint, SAP HANA, SAP Manufacturing Execution System (MES), SAP Manufacturing Integration, Microsoft Excel, Microsoft PowerBI, Tableau, QlikView",VAR
+231,maersk.com,Netherlands,DAP - ERP,tools,IFS10 - EAM and Work Order Management modules,AMKBY
+232,maersk.com,Mexico,DAP - ERP,tools,SAP,AMKBY
+233,maersk.com,Mexico,DAP - ERP,tools,Power BI,AMKBY
+234,maersk.com,Mexico,DAP - ERP,tools,ERP platforms,AMKBY
+235,maersk.com,Mexico,DAP - ERP,tools,Project management tools and technologies,AMKBY
+236,alcon.com,Poland,DAP - ERP,positioning,"Contextual, in-app guidance for ERP systems",ALC
+237,alcon.com,Poland,DAP - ERP,positioning,No-code editor for creating interactive content,ALC
+238,alcon.com,Poland,DAP - ERP,positioning,Boosting adoption and productivity across departments like finance and HR,ALC
+239,alcon.com,Poland,DAP - ERP,positioning,Streamlining processes and improving operational outcomes,ALC
+240,maersk.com,India,DAP - ERP,positioning,"Contextual, in-app guidance for transportation logistics and financial process automation",AMKBY
+241,maersk.com,India,DAP - ERP,positioning,No-code editor for creating interactive content to streamline financial processes,AMKBY
+242,varian.com,United States,DAP - ERP,positioning,"Enhance supplier quality management processes with contextual, in-app guidance and support",VAR
+243,varian.com,United States,DAP - ERP,positioning,"Streamline strategic initiatives with no-code editor for creating interactive content, boosting adoption and productivity",VAR
+244,maersk.com,Netherlands,DAP - ERP,positioning,"Contextual, in-app guidance for global AM processes and compliance",AMKBY
+245,maersk.com,Netherlands,DAP - ERP,positioning,No-code editor for creating interactive content to support user adoption,AMKBY
+246,maersk.com,Netherlands,DAP - ERP,positioning,Empowering communities to share ideas and enable best practices,AMKBY
+247,maersk.com,Netherlands,DAP - ERP,positioning,Enhancing stakeholder management and collaboration within ERP-EAM environment,AMKBY
+248,maersk.com,Mexico,DAP - ERP,positioning,"Contextual, in-app guidance for tax compliance and reporting in LATAM",AMKBY
+249,maersk.com,Mexico,DAP - ERP,positioning,No-code editor for creating interactive content for finance transformation,AMKBY
+250,maersk.com,Mexico,DAP - ERP,positioning,Enhancing talent acquisition and onboarding processes with in-app support,AMKBY
+251,maersk.com,Mexico,DAP - ERP,positioning,Supporting transition and migration processes with contextual guidance,AMKBY
+252,cisco.com,United States,DAP - HCM,initiatives,Enhancing employee engagement with HCM systems like SAP SuccessFactors and Workday,CSCO
+253,cisco.com,United States,DAP - HCM,initiatives,Reducing onboarding times and improving process compliance,CSCO
+254,cisco.com,United States,DAP - HCM,initiatives,Offering real-time analytics to drive user adoption and optimize HR processes,CSCO
+255,aig.com,United States,DAP - HCM,initiatives,Enhancing employee engagement with HCM systems like SAP SuccessFactors and Workday,AIG
+256,aig.com,United States,DAP - HCM,initiatives,Reducing onboarding times and improving process compliance,AIG
+257,aig.com,United States,DAP - HCM,initiatives,Offering real-time analytics to drive user adoption and optimize HR processes,AIG
+258,highmarkhealth.org,United States,DAP - HCM,initiatives,Enhance employee engagement with HCM systems,NOTICKER
+259,highmarkhealth.org,United States,DAP - HCM,initiatives,Reduce onboarding times and improve process compliance,NOTICKER
+260,highmarkhealth.org,United States,DAP - HCM,initiatives,Provide real-time analytics to drive user adoption and optimize HR processes,NOTICKER
+261,alcon.com,Poland,DAP - HCM,initiatives,Enhancing HR operations efficiency and compliance through digital transformation,ALC
+262,alcon.com,Poland,DAP - HCM,initiatives,Improving employee engagement and experience with HCM systems,ALC
+263,alcon.com,Poland,DAP - HCM,initiatives,Optimizing talent management processes for better decision-making and retention,ALC
+264,alcon.com,Poland,DAP - HCM,initiatives,Ensuring seamless onboarding and HR lifecycle management across geographies,ALC
+265,maersk.com,India,DAP - HCM,initiatives,Streamline and improve Global HR processes,AMKBY
+266,maersk.com,India,DAP - HCM,initiatives,"Enhance efficiency, effectiveness, and employee experience",AMKBY
+267,maersk.com,India,DAP - HCM,initiatives,Optimize end-to-end People processes within Talent Attraction & Acquisition,AMKBY
+268,cisco.com,United States,DAP - HCM,team,HR Technology team,CSCO
+269,cisco.com,United States,DAP - HCM,team,People and Communities (HR) team,CSCO
+270,aig.com,United States,DAP - HCM,team,Regional HR Service Delivery Team,AIG
+271,aig.com,United States,DAP - HCM,team,Leave Administration and Wellness Team,AIG
+272,highmarkhealth.org,United States,DAP - HCM,team,HR Systems Team,NOTICKER
+273,highmarkhealth.org,United States,DAP - HCM,team,Business Leaders,NOTICKER
+274,alcon.com,Poland,DAP - HCM,team,HR Operations,ALC
+275,alcon.com,Poland,DAP - HCM,team,Talent Management,ALC
+276,alcon.com,Poland,DAP - HCM,team,Employee Engagement,ALC
+277,alcon.com,Poland,DAP - HCM,team,Onboarding and HR Lifecycle Management,ALC
+278,maersk.com,India,DAP - HCM,team,Global Process Optimization Team,AMKBY
+279,maersk.com,India,DAP - HCM,team,Talent Attraction & Acquisition Team,AMKBY
+280,cisco.com,United States,DAP - HCM,tools,SAP SuccessFactors,CSCO
+281,cisco.com,United States,DAP - HCM,tools,Workday,CSCO
+282,aig.com,United States,DAP - HCM,tools,SAP SuccessFactors,AIG
+283,aig.com,United States,DAP - HCM,tools,Workday,AIG
+284,aig.com,United States,DAP - HCM,tools,ServiceNow,AIG
+285,aig.com,United States,DAP - HCM,tools,HRIS system,AIG
+286,highmarkhealth.org,United States,DAP - HCM,tools,Workday HCM,NOTICKER
+287,highmarkhealth.org,United States,DAP - HCM,tools,Kronos/UKG,NOTICKER
+288,alcon.com,Poland,DAP - HCM,tools,Workday,ALC
+289,alcon.com,Poland,DAP - HCM,tools,HR Information System,ALC
+290,alcon.com,Poland,DAP - HCM,tools,Service Center technologies,ALC
+291,maersk.com,India,DAP - HCM,tools,ARIS,AMKBY
+292,maersk.com,India,DAP - HCM,tools,RPA,AMKBY
+293,maersk.com,India,DAP - HCM,tools,JIRA,AMKBY
+294,maersk.com,India,DAP - HCM,tools,Confluence,AMKBY
+295,maersk.com,India,DAP - HCM,tools,Celonis,AMKBY
+296,cisco.com,United States,DAP - HCM,positioning,Enhances employee engagement with HCM systems,CSCO
+297,cisco.com,United States,DAP - HCM,positioning,Reduces onboarding times and improves process compliance,CSCO
+298,cisco.com,United States,DAP - HCM,positioning,Offers real-time analytics to drive user adoption and optimize HR processes,CSCO
+299,aig.com,United States,DAP - HCM,positioning,"No-code, contextual, and guided in-app solution for seamless HCM system engagement",AIG
+300,aig.com,United States,DAP - HCM,positioning,Enhances onboarding efficiency and ensures process compliance,AIG
+301,aig.com,United States,DAP - HCM,positioning,Provides real-time analytics for data-driven decision-making in HR processes,AIG
+302,highmarkhealth.org,United States,DAP - HCM,positioning,"Whatfix DAP provides contextual, guided in-app solution for HCM systems",NOTICKER
+303,highmarkhealth.org,United States,DAP - HCM,positioning,Enables continuous improvement and innovation within HR functions,NOTICKER
+304,highmarkhealth.org,United States,DAP - HCM,positioning,"Facilitates coaching, development, and goal alignment for employees",NOTICKER
+305,highmarkhealth.org,United States,DAP - HCM,positioning,Offers real-time analytics for driving user adoption and optimizing HR processes,NOTICKER
+306,alcon.com,Poland,DAP - HCM,positioning,Whatfix DAP provides contextual guidance for efficient HR operations and compliance,ALC
+307,alcon.com,Poland,DAP - HCM,positioning,Enhances user engagement with HCM systems like Workday and ensures optimal usage,ALC
+308,alcon.com,Poland,DAP - HCM,positioning,Offers real-time analytics for talent management and decision-making processes,ALC
+309,alcon.com,Poland,DAP - HCM,positioning,Reduces onboarding times and ensures consistent HR lifecycle management across global geographies,ALC
+310,maersk.com,India,DAP - HCM,positioning,"Whatfix DAP for HCM provides no-code, contextual, and guided in-app solution",AMKBY
+311,maersk.com,India,DAP - HCM,positioning,Reduces onboarding times and improves process compliance,AMKBY
+312,maersk.com,India,DAP - HCM,positioning,Offers real-time analytics to drive user adoption and optimize HR processes,AMKBY
+313,highmarkhealth.org,United States,DAP - S2P & Procurement,initiatives,Strategic sourcing for spend categories,NOTICKER
+314,highmarkhealth.org,United States,DAP - S2P & Procurement,initiatives,Supplier relationship management,NOTICKER
+315,highmarkhealth.org,United States,DAP - S2P & Procurement,initiatives,Demand and compliance management,NOTICKER
+316,highmarkhealth.org,United States,DAP - S2P & Procurement,initiatives,Internal spend and external market analysis,NOTICKER
+317,highmarkhealth.org,United States,DAP - S2P & Procurement,initiatives,Category governance for sustainable value,NOTICKER
+318,alcon.com,United States,DAP - S2P & Procurement,initiatives,Enhancing procurement analytics for effective category management,ALC
+319,alcon.com,United States,DAP - S2P & Procurement,initiatives,Driving innovation in procurement processes through data-driven decision-making,ALC
+320,alcon.com,United States,DAP - S2P & Procurement,initiatives,Improving global supply chain planning and data management,ALC
+321,alcon.com,United States,DAP - S2P & Procurement,initiatives,Enabling customer-centricity in supply chain operations,ALC
+322,maersk.com,Denmark,DAP - S2P & Procurement,initiatives,Transformation of Technology Procurement function,AMKBY
+323,maersk.com,Denmark,DAP - S2P & Procurement,initiatives,Global partnerships with market leaders for Transportation Assets,AMKBY
+324,maersk.com,Denmark,DAP - S2P & Procurement,initiatives,Development and execution of storage solutions procurement strategies,AMKBY
+325,maersk.com,Denmark,DAP - S2P & Procurement,initiatives,Category framework development across all brands in Maersk,AMKBY
+326,maersk.com,Denmark,DAP - S2P & Procurement,initiatives,Optimizing external spending and unlocking synergies,AMKBY
+327,aig.com,Canada,DAP - S2P & Procurement,initiatives,Enhancing and safeguarding the company’s reputation through prudent capital and financial management,AIG
+328,aig.com,Canada,DAP - S2P & Procurement,initiatives,"Implementing changes to Finance organizational design, processes, and systems to improve efficiency and effectiveness",AIG
+329,aig.com,Canada,DAP - S2P & Procurement,initiatives,"Championing continuous improvement initiatives, particularly in enhancing internal controls and streamlining processes",AIG
+330,aig.com,Canada,DAP - S2P & Procurement,initiatives,Ensuring all internal and regulatory financial reporting requirements are met in a timely and accurate manner,AIG
+331,aig.com,Canada,DAP - S2P & Procurement,initiatives,Driving technology platform development and adoption to align with global strategies,AIG
+332,maersk.com,India,DAP - S2P & Procurement,initiatives,Enhancing procurement processes for warehousing solutions,AMKBY
+333,maersk.com,India,DAP - S2P & Procurement,initiatives,Driving digital transformation in source to pay process,AMKBY
+334,maersk.com,India,DAP - S2P & Procurement,initiatives,Implementing sustainable and scalable digital solutions for procurement,AMKBY
+335,maersk.com,India,DAP - S2P & Procurement,initiatives,Improving risk assessment and control practices in procurement,AMKBY
+336,maersk.com,Mexico,DAP - S2P & Procurement,initiatives,Enhancing safety and compliance in capital infrastructure and port operations,AMKBY
+337,maersk.com,Mexico,DAP - S2P & Procurement,initiatives,Scaling operations and achieving excellence in terminal businesses,AMKBY
+338,maersk.com,Mexico,DAP - S2P & Procurement,initiatives,Driving automation and technical integration for terminal expansion projects,AMKBY
+339,aig.com,United States,DAP - S2P & Procurement,initiatives,Global source to pay functions within the GS&PS organization,AIG
+340,aig.com,United States,DAP - S2P & Procurement,initiatives,"Comprehensive cost reduction opportunities, value proposition, quality of service, customer experience and innovation",AIG
+341,aig.com,United States,DAP - S2P & Procurement,initiatives,Continuous Improvement vision and objectives,AIG
+342,aig.com,United States,DAP - S2P & Procurement,initiatives,Project delivery experience in Insurance,AIG
+343,aig.com,United States,DAP - S2P & Procurement,initiatives,Improvement and transformation opportunities to enhance the customer experience,AIG
+344,maersk.com,Germany,DAP - S2P & Procurement,initiatives,Enhancing procurement quality and compliance,AMKBY
+345,maersk.com,Germany,DAP - S2P & Procurement,initiatives,Driving innovation and sustainable procurement agenda,AMKBY
+346,maersk.com,Germany,DAP - S2P & Procurement,initiatives,Optimizing procurement process and contract value handovers,AMKBY
+347,maersk.com,Germany,DAP - S2P & Procurement,initiatives,Implementing digital solutions to optimize procurement process,AMKBY
+348,maersk.com,Germany,DAP - S2P & Procurement,initiatives,Supporting cross-geography procurement and best practices,AMKBY
+349,highmarkhealth.org,United States,DAP - S2P & Procurement,team,Procurement team,NOTICKER
+350,highmarkhealth.org,United States,DAP - S2P & Procurement,team,Category management team,NOTICKER
+351,alcon.com,United States,DAP - S2P & Procurement,team,Procurement Analytics CoE,ALC
+352,alcon.com,United States,DAP - S2P & Procurement,team,Global Supply Chain Planning COE and Data Management,ALC
+353,alcon.com,United States,DAP - S2P & Procurement,team,IT Procurement Category Management,ALC
+354,maersk.com,Denmark,DAP - S2P & Procurement,team,Technology Procurement function,AMKBY
+355,maersk.com,Denmark,DAP - S2P & Procurement,team,Transportation Assets team,AMKBY
+356,maersk.com,Denmark,DAP - S2P & Procurement,team,Storage Solutions team,AMKBY
+357,maersk.com,Denmark,DAP - S2P & Procurement,team,Professional Services team,AMKBY
+358,aig.com,Canada,DAP - S2P & Procurement,team,Finance,AIG
+359,aig.com,Canada,DAP - S2P & Procurement,team,Technology,AIG
+360,maersk.com,India,DAP - S2P & Procurement,team,Asset Strategy & Strategic Partnerships function,AMKBY
+361,maersk.com,India,DAP - S2P & Procurement,team,Digital Delivery team,AMKBY
+362,maersk.com,India,DAP - S2P & Procurement,team,"Governance, Risk and Control team",AMKBY
+363,maersk.com,Mexico,DAP - S2P & Procurement,team,APM Terminals - Project Team,AMKBY
+364,maersk.com,Mexico,DAP - S2P & Procurement,team,APM Terminals - Terminal Team,AMKBY
+365,maersk.com,Mexico,DAP - S2P & Procurement,team,APM Terminals - IT & Automation Team,AMKBY
+366,aig.com,United States,DAP - S2P & Procurement,team,GS&PS leadership team,AIG
+367,aig.com,United States,DAP - S2P & Procurement,team,"Personal Lines, Claims & Contact Centers",AIG
+368,aig.com,United States,DAP - S2P & Procurement,team,Global Business Operations & IT,AIG
+369,maersk.com,Germany,DAP - S2P & Procurement,team,North Europe Continent logistics & services procurement team,AMKBY
+370,maersk.com,Germany,DAP - S2P & Procurement,team,Maersk Customs Services,AMKBY
+371,maersk.com,Germany,DAP - S2P & Procurement,team,"Internal VAS Team, Intermodal, Procurement, Sales, Finance",AMKBY
+372,alcon.com,United States,DAP - S2P & Procurement,tools,SAP Ariba,ALC
+373,alcon.com,United States,DAP - S2P & Procurement,tools,Analytics tools,ALC
+374,maersk.com,India,DAP - S2P & Procurement,tools,Digital procurement systems,AMKBY
+375,maersk.com,India,DAP - S2P & Procurement,tools,SAP GRC tool,AMKBY
+376,maersk.com,Germany,DAP - S2P & Procurement,tools,Coupa,AMKBY
+377,maersk.com,Germany,DAP - S2P & Procurement,tools,SAP Ariba,AMKBY
+378,maersk.com,Germany,DAP - S2P & Procurement,tools,Digital procurement tools,AMKBY
+379,highmarkhealth.org,United States,DAP - S2P & Procurement,positioning,In-app guidance for strategic sourcing,NOTICKER
+380,highmarkhealth.org,United States,DAP - S2P & Procurement,positioning,Task Lists for supplier relationship management,NOTICKER
+381,highmarkhealth.org,United States,DAP - S2P & Procurement,positioning,Smart Tips for demand and compliance management,NOTICKER
+382,highmarkhealth.org,United States,DAP - S2P & Procurement,positioning,Flows for spend analysis and category governance,NOTICKER
+383,alcon.com,United States,DAP - S2P & Procurement,positioning,In-app guidance for effective category management and RFPs,ALC
+384,alcon.com,United States,DAP - S2P & Procurement,positioning,Enhanced data-driven decision-making through in-app analytics support,ALC
+385,alcon.com,United States,DAP - S2P & Procurement,positioning,Improved planning capabilities and customer-centric operations,ALC
+386,alcon.com,United States,DAP - S2P & Procurement,positioning,Support for procurement category management and supplier relationship management,ALC
+387,maersk.com,Denmark,DAP - S2P & Procurement,positioning,In-app guidance for navigating procurement processes effectively,AMKBY
+388,maersk.com,Denmark,DAP - S2P & Procurement,positioning,Boosting productivity and ensuring adherence to best practices,AMKBY
+389,maersk.com,Denmark,DAP - S2P & Procurement,positioning,Optimizing user adoption and training times,AMKBY
+390,maersk.com,Denmark,DAP - S2P & Procurement,positioning,"Enhancing reliability, productivity, and reducing costs",AMKBY
+391,maersk.com,Denmark,DAP - S2P & Procurement,positioning,Creating transparency and governance in the supplier landscape,AMKBY
+392,aig.com,Canada,DAP - S2P & Procurement,positioning,In-app guidance and task lists will enhance financial management and process efficiency,AIG
+393,aig.com,Canada,DAP - S2P & Procurement,positioning,Smart tips will aid in meeting regulatory financial reporting requirements accurately and timely,AIG
+394,aig.com,Canada,DAP - S2P & Procurement,positioning,Flows and task lists will support the implementation of changes in finance organizational design,AIG
+395,aig.com,Canada,DAP - S2P & Procurement,positioning,In-app guidance will facilitate technology platform development and adoption aligned with global strategies,AIG
+396,maersk.com,India,DAP - S2P & Procurement,positioning,In-app guidance for navigating procurement processes effectively,AMKBY
+397,maersk.com,India,DAP - S2P & Procurement,positioning,Boosting productivity and adherence to best practices,AMKBY
+398,maersk.com,India,DAP - S2P & Procurement,positioning,Optimizing user adoption and training times,AMKBY
+399,maersk.com,India,DAP - S2P & Procurement,positioning,Driving sustainability agenda and decarbonizing logistics,AMKBY
+400,maersk.com,Mexico,DAP - S2P & Procurement,positioning,In-app guidance for safety and compliance best practices,AMKBY
+401,maersk.com,Mexico,DAP - S2P & Procurement,positioning,Task Lists and Smart Tips for scaling operations and achieving excellence,AMKBY
+402,maersk.com,Mexico,DAP - S2P & Procurement,positioning,Automation of technical integration processes for terminal expansion projects,AMKBY
+403,aig.com,United States,DAP - S2P & Procurement,positioning,In-app guidance for navigating source-to-pay functions,AIG
+404,aig.com,United States,DAP - S2P & Procurement,positioning,Boosting productivity and ensuring adherence to best practices,AIG
+405,aig.com,United States,DAP - S2P & Procurement,positioning,Optimizing user adoption and training times,AIG
+406,aig.com,United States,DAP - S2P & Procurement,positioning,Driving transformation change in global organizations,AIG
+407,aig.com,United States,DAP - S2P & Procurement,positioning,Supporting continuous improvement vision and objectives,AIG
+408,maersk.com,Germany,DAP - S2P & Procurement,positioning,In-app guidance for navigating procurement processes effectively,AMKBY
+409,maersk.com,Germany,DAP - S2P & Procurement,positioning,Boosting productivity and adherence to best practices,AMKBY
+410,maersk.com,Germany,DAP - S2P & Procurement,positioning,Optimizing user adoption and training times,AMKBY
+411,maersk.com,Germany,DAP - S2P & Procurement,positioning,Enhancing procurement quality and compliance,AMKBY
+412,maersk.com,Germany,DAP - S2P & Procurement,positioning,Driving innovation and sustainable procurement agenda,AMKBY
+413,cisco.com,United States,Whatfix ATS,initiatives,Global Executive Talent Acquisition Strategy,CSCO
+414,cisco.com,United States,Whatfix ATS,initiatives,Innovative Sourcing Strategies for Top-tier Executive Talent,CSCO
+415,cisco.com,United States,Whatfix ATS,initiatives,Enhancing Workday Solutions for HR Transformation,CSCO
+416,aig.com,United States,Whatfix ATS,initiatives,Global Campus recruiting programs overhaul strategy,AIG
+417,aig.com,United States,Whatfix ATS,initiatives,Attracting and retaining future leaders through early careers hiring,AIG
+418,aig.com,United States,Whatfix ATS,initiatives,Transformation of on-campus relationships with university Career Services,AIG
+419,aig.com,United States,Whatfix ATS,initiatives,Talent mapping and pipelining for quality and diversity of hires,AIG
+420,aig.com,United States,Whatfix ATS,initiatives,Employment Branding to the next generation of talent,AIG
+421,aig.com,United States,Whatfix ATS,initiatives,Advocating for appropriate recruiting strategies and cross Talent Acquisition matters,AIG
+422,maersk.com,India,Whatfix ATS,initiatives,Global Process Optimization for Talent Attraction & Acquisition,AMKBY
+423,maersk.com,India,Whatfix ATS,initiatives,Product Management for Recruitment & Talent Modules within Workday,AMKBY
+424,maersk.com,India,Whatfix ATS,initiatives,Digital Product Management for TAA and Talent,AMKBY
+425,maersk.com,India,Whatfix ATS,initiatives,Global Process Optimization for Core HCM,AMKBY
+426,maersk.com,India,Whatfix ATS,initiatives,"Global Process Optimization for Time & Absence, Payroll and Rewards",AMKBY
+427,cisco.com,United States,Whatfix ATS,team,Global Executive Talent Acquisition Team,CSCO
+428,cisco.com,United States,Whatfix ATS,team,Global Sourcing Team,CSCO
+429,cisco.com,United States,Whatfix ATS,team,HR Products and Platforms Team,CSCO
+430,aig.com,United States,Whatfix ATS,team,Talent Acquisition - Early Careers & Operations,AIG
+431,aig.com,United States,Whatfix ATS,team,Global Campus recruiting team,AIG
+432,aig.com,United States,Whatfix ATS,team,University Career Services team,AIG
+433,aig.com,United States,Whatfix ATS,team,Talent mapping and pipelining team,AIG
+434,aig.com,United States,Whatfix ATS,team,Employment Branding team,AIG
+435,aig.com,United States,Whatfix ATS,team,Talent Acquisition leadership team,AIG
+436,maersk.com,India,Whatfix ATS,team,People Function - Talent Attraction & Acquisition,AMKBY
+437,maersk.com,India,Whatfix ATS,team,Product Management Team,AMKBY
+438,maersk.com,India,Whatfix ATS,team,Digital Product Management Team,AMKBY
+439,maersk.com,India,Whatfix ATS,team,Global HR Team - Core HCM,AMKBY
+440,maersk.com,India,Whatfix ATS,team,"Global HR Team - Time & Absence, Payroll and Rewards",AMKBY
+441,maersk.com,India,Whatfix ATS,tools,Workday,AMKBY
+442,maersk.com,India,Whatfix ATS,tools,Jira,AMKBY
+443,maersk.com,India,Whatfix ATS,tools,Confluence,AMKBY
+444,maersk.com,India,Whatfix ATS,tools,ARIS,AMKBY
+445,maersk.com,India,Whatfix ATS,tools,RPA (Robotic Process Automation),AMKBY
+446,maersk.com,India,Whatfix ATS,tools,Celonis,AMKBY
+447,cisco.com,United States,Whatfix ATS,positioning,Streamline ATS usage for efficient global executive talent acquisition strategy,CSCO
+448,cisco.com,United States,Whatfix ATS,positioning,"Create contextual, in-app guidance for innovative sourcing strategies",CSCO
+449,cisco.com,United States,Whatfix ATS,positioning,Enhance user adoption and proficiency in Workday Solutions for HR transformation,CSCO
+450,aig.com,United States,Whatfix ATS,positioning,Streamline global campus recruiting programs with contextual in-app guidance,AIG
+451,aig.com,United States,Whatfix ATS,positioning,Enhance user adoption for early careers hiring and talent mapping,AIG
+452,aig.com,United States,Whatfix ATS,positioning,Improve engagement and awareness through in-app engagement initiatives,AIG
+453,aig.com,United States,Whatfix ATS,positioning,Reduce time-to-proficiency for new hires through seamless onboarding guidance,AIG
+454,maersk.com,India,Whatfix ATS,positioning,Streamline and optimize People processes at various levels with no-code solutions,AMKBY
+455,maersk.com,India,Whatfix ATS,positioning,"Enhance user adoption and proficiency, making hiring processes more efficient",AMKBY
+456,maersk.com,India,Whatfix ATS,positioning,"Reduce time-to-proficiency for new employees through contextual, in-app guidance",AMKBY
+457,maersk.com,India,Whatfix ATS,positioning,Facilitate process automation and standardization to enable consistency and compliance across regions,AMKBY
+458,maersk.com,India,Whatfix ATS,positioning,Improve efficiency and effectiveness of People processes using continuous improvement methodologies,AMKBY
+459,aig.com,United States,Whatfix Hub,initiatives,Enhancing Privileged Access Management (PAM) program,AIG
+460,aig.com,United States,Whatfix Hub,initiatives,Improving end-user experience for Infrastructure Services projects,AIG
+461,maersk.com,Brazil,Whatfix Hub,initiatives,Development of a new fully decarbonized/electrical container terminal in the Port of Suape,AMKBY
+462,maersk.com,Brazil,Whatfix Hub,initiatives,Expansion of business value and proposition for the entire region and hinterland for Maersk,AMKBY
+463,maersk.com,Denmark,Whatfix Hub,initiatives,Agile program management and ways of working for process transformation,AMKBY
+464,maersk.com,Denmark,Whatfix Hub,initiatives,Process maturity and true partnership to the organization,AMKBY
+465,maersk.com,Denmark,Whatfix Hub,initiatives,"Engagement, stakeholder management, and communication for process initiatives",AMKBY
+466,alcon.com,India,Whatfix Hub,initiatives,Global transformation & implementation projects covering company wide ERP and process changes,ALC
+467,alcon.com,India,Whatfix Hub,initiatives,End-to-end IT lifecycle software assets governance and compliance,ALC
+468,cisco.com,Mexico,Whatfix Hub,initiatives,Enhancing SaaS Access and Operational Continuity,CSCO
+469,cisco.com,Mexico,Whatfix Hub,initiatives,Improving Productivity and Onboarding Experience,CSCO
+470,cisco.com,Mexico,Whatfix Hub,initiatives,Shaping Security Posture and Compliance,CSCO
+471,cisco.com,Mexico,Whatfix Hub,initiatives,Driving Technical Direction and Alignment with Technological Trends,CSCO
+472,alcon.com,Mexico,Whatfix Hub,initiatives,Manage IT projects and continuous improvement initiatives for SAP and Non-SAP Enterprise Applications,ALC
+473,alcon.com,Mexico,Whatfix Hub,initiatives,Support planning and execution of continuous improvement initiatives in Agile mode,ALC
+474,alcon.com,Mexico,Whatfix Hub,initiatives,Ensure proper security and compliance standards are followed,ALC
+475,alcon.com,Mexico,Whatfix Hub,initiatives,"Manage relationship with project stakeholders, including internal and external stakeholders",ALC
+476,alcon.com,Mexico,Whatfix Hub,initiatives,"Create and maintain project deliverables such as project charter, project management plan, status reports, etc.",ALC
+477,cisco.com,United States,Whatfix Hub,initiatives,Security incident response and threat management,CSCO
+478,cisco.com,United States,Whatfix Hub,initiatives,Customer onboarding and inventory management experience modernization,CSCO
+479,cisco.com,United States,Whatfix Hub,initiatives,Technical support for Cisco security products,CSCO
+480,cisco.com,United States,Whatfix Hub,initiatives,"Enhancing employee experience through centralized onboarding, resource access, and communication",CSCO
+481,firstcitizens.com,United States,Whatfix Hub,initiatives,"Enhancing operational reliability, functionality, and efficiency of IT services",FCNCA
+482,firstcitizens.com,United States,Whatfix Hub,initiatives,"Managing specific Governance, Risk, and Compliance (GRC) services within the Identity and Access Management (IAM) organization",FCNCA
+483,firstcitizens.com,United States,Whatfix Hub,initiatives,Advancing end user productivity and data security through digital adoption,FCNCA
+484,firstcitizens.com,United States,Whatfix Hub,initiatives,"Developing and maintaining the strategic mission of the IAM Authentication, CIAM and Cloud Security GRC functions",FCNCA
+485,alcon.com,United States,Whatfix Hub,initiatives,IT strategy alignment with business objectives,ALC
+486,alcon.com,United States,Whatfix Hub,initiatives,Value extraction from enterprise platforms,ALC
+487,alcon.com,United States,Whatfix Hub,initiatives,Deployment and business readiness for digital products,ALC
+488,alcon.com,United States,Whatfix Hub,initiatives,Large scale automation and governance,ALC
+489,alcon.com,United States,Whatfix Hub,initiatives,IT audit and risk advisory,ALC
+490,maersk.com,Philippines,Whatfix Hub,initiatives,Enhancing cyber security incident response and continuous improvement,AMKBY
+491,maersk.com,Philippines,Whatfix Hub,initiatives,Developing and improving the Global Security Operations Centre (SOC) capabilities,AMKBY
+492,maersk.com,India,Whatfix Hub,initiatives,24x7 operational critical incident management and network operations strategy,AMKBY
+493,maersk.com,India,Whatfix Hub,initiatives,Supporting and driving new WMS and TMS implementations,AMKBY
+494,maersk.com,India,Whatfix Hub,initiatives,Develop and deploy a comprehensive approach for agile program management and ways of working,AMKBY
+495,maersk.com,India,Whatfix Hub,initiatives,Leading the transformation programme on our journey to become operationally excellent,AMKBY
+496,maersk.com,Mexico,Whatfix Hub,initiatives,Standardizing Omni Channel Transportation applications,AMKBY
+497,maersk.com,Mexico,Whatfix Hub,initiatives,Driving large scale application technical debt replacement initiatives,AMKBY
+498,maersk.com,Mexico,Whatfix Hub,initiatives,Improving business operations and supervising software applications,AMKBY
+499,maersk.com,Mexico,Whatfix Hub,initiatives,Enhancing warehouse efficiency and productivity through system upgrades,AMKBY
+500,maersk.com,Mexico,Whatfix Hub,initiatives,Creating equitable and inclusive workplaces,AMKBY
+501,maersk.com,Morocco,Whatfix Hub,initiatives,Technology transformation for global integrator of container logistics,AMKBY
+502,maersk.com,Morocco,Whatfix Hub,initiatives,Centralization of technology support and service management,AMKBY
+503,maersk.com,Morocco,Whatfix Hub,initiatives,Modernization and transformation of Terminal business operations,AMKBY
+504,maersk.com,Morocco,Whatfix Hub,initiatives,Enhancing IT support strategy for global Terminals,AMKBY
+505,maersk.com,Morocco,Whatfix Hub,initiatives,Improving support processes and fostering a culture of continuous improvement,AMKBY
+506,maersk.com,United States,Whatfix Hub,initiatives,Accelerating the transformation of business from independently operated terminals to a global terminals operator,AMKBY
+507,maersk.com,United States,Whatfix Hub,initiatives,Enabling global trade by providing port operations and container management services,AMKBY
+508,maersk.com,United States,Whatfix Hub,initiatives,Developing solutions to meet customer needs across the supply chain,AMKBY
+509,maersk.com,United States,Whatfix Hub,initiatives,Achieving reliability outcomes for services through partnership with Regional Service Delivery Leads,AMKBY
+510,aig.com,United States,Whatfix Hub,team,Identity and Access Management team,AIG
+511,aig.com,United States,Whatfix Hub,team,IT EMPO Change Leader and Infrastructure Services team,AIG
+512,maersk.com,Brazil,Whatfix Hub,team,APM Terminals Suape,AMKBY
+513,maersk.com,Brazil,Whatfix Hub,team,ICT vendors,AMKBY
+514,maersk.com,Denmark,Whatfix Hub,team,Maersk Process Excellence team,AMKBY
+515,maersk.com,Denmark,Whatfix Hub,team,Fleet Management and Technology (FMT) function,AMKBY
+516,maersk.com,Denmark,Whatfix Hub,team,Change Management team,AMKBY
+517,alcon.com,India,Whatfix Hub,team,"Global Process Owners, Subject Matter Experts, Application Owners, Lean Six Sigma experts, IT experts",ALC
+518,alcon.com,India,Whatfix Hub,team,"Technology and business stakeholders, Infrastructure, Project Management, Development, Legal, Tax, and Finance",ALC
+519,cisco.com,Mexico,Whatfix Hub,team,Service Management Team at ThousandEyes,CSCO
+520,cisco.com,Mexico,Whatfix Hub,team,Cisco's Network Services Business Group,CSCO
+521,alcon.com,Mexico,Whatfix Hub,team,Global ESA IT Team,ALC
+522,alcon.com,Mexico,Whatfix Hub,team,Information Systems and Information Assurance (ISIA) Team,ALC
+523,cisco.com,United States,Whatfix Hub,team,Threat Management Response team,CSCO
+524,cisco.com,United States,Whatfix Hub,team,Onboarding & Inventory team,CSCO
+525,cisco.com,United States,Whatfix Hub,team,Cisco Technical Services group,CSCO
+526,cisco.com,United States,Whatfix Hub,team,Customer Experience Organization,CSCO
+527,firstcitizens.com,United States,Whatfix Hub,team,IT Infrastructure team,FCNCA
+528,firstcitizens.com,United States,Whatfix Hub,team,Identity and Access Management (IAM) organization,FCNCA
+529,firstcitizens.com,United States,Whatfix Hub,team,End User Services (EUS) team,FCNCA
+530,alcon.com,United States,Whatfix Hub,team,IT Strategy and Alignment Team,ALC
+531,alcon.com,United States,Whatfix Hub,team,Value Extraction and Enterprise Platforms Team,ALC
+532,alcon.com,United States,Whatfix Hub,team,Digital Products Deployment and Readiness Team,ALC
+533,alcon.com,United States,Whatfix Hub,team,Automation and Governance Team,ALC
+534,alcon.com,United States,Whatfix Hub,team,IT Audit and Risk Advisory Team,ALC
+535,maersk.com,Philippines,Whatfix Hub,team,Global Cyber Defence Centre,AMKBY
+536,maersk.com,Philippines,Whatfix Hub,team,Security Operations Centre (SOC) team,AMKBY
+537,maersk.com,India,Whatfix Hub,team,Technology Operations Platform,AMKBY
+538,maersk.com,India,Whatfix Hub,team,Internal support team,AMKBY
+539,maersk.com,India,Whatfix Hub,team,Process Excellence organization,AMKBY
+540,maersk.com,India,Whatfix Hub,team,Technology Operations function,AMKBY
+541,maersk.com,Mexico,Whatfix Hub,team,Fulfilled by Maersk Platform team,AMKBY
+542,maersk.com,Mexico,Whatfix Hub,team,Technology Operations team,AMKBY
+543,maersk.com,Morocco,Whatfix Hub,team,Technology Operations Leadership Team,AMKBY
+544,maersk.com,Morocco,Whatfix Hub,team,APMT Global Support Team,AMKBY
+545,maersk.com,United States,Whatfix Hub,team,APM Terminals Integration Platform Portfolio team,AMKBY
+546,maersk.com,United States,Whatfix Hub,team,Regional Service Delivery Leads,AMKBY
+547,maersk.com,United States,Whatfix Hub,team,Terminal IT Managers,AMKBY
+548,alcon.com,India,Whatfix Hub,tools,"ERP systems, SAMPRO, SNOW, Flexera, License Dashboard, ServiceNow, SCCM, ServiceNow ITOM",ALC
+549,cisco.com,Mexico,Whatfix Hub,tools,Jira Service Management,CSCO
+550,cisco.com,Mexico,Whatfix Hub,tools,ServiceNow,CSCO
+551,alcon.com,Mexico,Whatfix Hub,tools,"Microsoft Office tools including Excel, PowerPoint, and Visio",ALC
+552,alcon.com,Mexico,Whatfix Hub,tools,"MS Teams, SharePoint, ServiceNow or other Project Management tool",ALC
+553,alcon.com,Mexico,Whatfix Hub,tools,"SAP solutions, business processes and functionalities",ALC
+554,alcon.com,Mexico,Whatfix Hub,tools,Agile tools,ALC
+555,cisco.com,United States,Whatfix Hub,tools,Security Incident and Event Monitoring (SIEM),CSCO
+556,cisco.com,United States,Whatfix Hub,tools,File Integrity Monitoring (FIM),CSCO
+557,cisco.com,United States,Whatfix Hub,tools,Vulnerability Scanners,CSCO
+558,cisco.com,United States,Whatfix Hub,tools,Endpoint Detection & Response (EDR),CSCO
+559,cisco.com,United States,Whatfix Hub,tools,"Security Orchestration, Automation & Response (SOAR)",CSCO
+560,cisco.com,United States,Whatfix Hub,tools,Network and Host Intrusion Detection (IDS),CSCO
+561,cisco.com,United States,Whatfix Hub,tools,"Cloud platforms (AWS, Azure, GCP)",CSCO
+562,cisco.com,United States,Whatfix Hub,tools,Cisco physical and virtual network devices and platforms,CSCO
+563,cisco.com,United States,Whatfix Hub,tools,"Splunk, ELK, Snowflake or other searchable big data solutions",CSCO
+564,maersk.com,Philippines,Whatfix Hub,tools,SIEM,AMKBY
+565,maersk.com,Philippines,Whatfix Hub,tools,XSOAR,AMKBY
+566,maersk.com,Philippines,Whatfix Hub,tools,EDR,AMKBY
+567,maersk.com,Philippines,Whatfix Hub,tools,XDR,AMKBY
+568,maersk.com,Philippines,Whatfix Hub,tools,Endpoint,AMKBY
+569,maersk.com,Philippines,Whatfix Hub,tools,Server Estates,AMKBY
+570,maersk.com,Philippines,Whatfix Hub,tools,Cloud,AMKBY
+571,maersk.com,Philippines,Whatfix Hub,tools,Qualys,AMKBY
+572,maersk.com,Philippines,Whatfix Hub,tools,Prisma Cloud,AMKBY
+573,maersk.com,Philippines,Whatfix Hub,tools,Black Duck,AMKBY
+574,maersk.com,Philippines,Whatfix Hub,tools,Polaris,AMKBY
+575,maersk.com,Philippines,Whatfix Hub,tools,Akamai,AMKBY
+576,maersk.com,Philippines,Whatfix Hub,tools,Trend,AMKBY
+577,maersk.com,Philippines,Whatfix Hub,tools,CrowdStrike,AMKBY
+578,maersk.com,Philippines,Whatfix Hub,tools,AlgoSec,AMKBY
+579,maersk.com,India,Whatfix Hub,tools,ITIL,AMKBY
+580,maersk.com,India,Whatfix Hub,tools,"Infor SCE, Exceed, JDA, SAP WMS",AMKBY
+581,maersk.com,India,Whatfix Hub,tools,Agile program management,AMKBY
+582,maersk.com,India,Whatfix Hub,tools,Technology operations tools and methodologies,AMKBY
+583,maersk.com,Mexico,Whatfix Hub,tools,Omni Channel Transportation applications,AMKBY
+584,maersk.com,Mexico,Whatfix Hub,tools,Handheld scan device interface,AMKBY
+585,maersk.com,Mexico,Whatfix Hub,tools,Label printing services,AMKBY
+586,maersk.com,Mexico,Whatfix Hub,tools,"WMS, DMS, YMS, or other FBM Applications",AMKBY
+587,maersk.com,Mexico,Whatfix Hub,tools,MS SQL and Oracle SQL support,AMKBY
+588,maersk.com,Mexico,Whatfix Hub,tools,"Support Applications built on Java, .Net, and SQL",AMKBY
+589,maersk.com,Morocco,Whatfix Hub,tools,Microsoft Server,AMKBY
+590,maersk.com,Morocco,Whatfix Hub,tools,Networking estate,AMKBY
+591,maersk.com,Morocco,Whatfix Hub,tools,VMWare,AMKBY
+592,maersk.com,Morocco,Whatfix Hub,tools,Cisco,AMKBY
+593,maersk.com,Morocco,Whatfix Hub,tools,HPE,AMKBY
+594,maersk.com,Morocco,Whatfix Hub,tools,Orange,AMKBY
+595,maersk.com,Morocco,Whatfix Hub,tools,Linux,AMKBY
+596,maersk.com,Morocco,Whatfix Hub,tools,SAN,AMKBY
+597,maersk.com,Morocco,Whatfix Hub,tools,Zabbix,AMKBY
+598,maersk.com,Morocco,Whatfix Hub,tools,Hyperconverged technologies,AMKBY
+599,aig.com,United States,Whatfix Hub,positioning,Whatfix Hub centralizes onboarding and resource access,AIG
+600,aig.com,United States,Whatfix Hub,positioning,"Improves engagement, compliance, and productivity",AIG
+601,aig.com,United States,Whatfix Hub,positioning,"Facilitates easy access to tasks, resources, and notifications",AIG
+602,maersk.com,Brazil,Whatfix Hub,positioning,Whatfix Hub can centralize onboarding and resource access for the new terminal project,AMKBY
+603,maersk.com,Brazil,Whatfix Hub,positioning,Enhance employee engagement and productivity during the expansion of business value,AMKBY
+604,maersk.com,Denmark,Whatfix Hub,positioning,Whatfix Hub centralizes onboarding and communication for process transformation,AMKBY
+605,maersk.com,Denmark,Whatfix Hub,positioning,Whatfix Hub empowers employees with easy access to process resources and notifications,AMKBY
+606,maersk.com,Denmark,Whatfix Hub,positioning,Whatfix Hub facilitates engagement and compliance in global process initiatives,AMKBY
+607,alcon.com,India,Whatfix Hub,positioning,"Centralizing onboarding, resource access, and communication for global transformation projects",ALC
+608,alcon.com,India,Whatfix Hub,positioning,"Facilitating easy access to tasks, resources, and notifications for end-to-end IT lifecycle software assets governance",ALC
+609,cisco.com,Mexico,Whatfix Hub,positioning,Centralizing onboarding and resource access for seamless experience,CSCO
+610,cisco.com,Mexico,Whatfix Hub,positioning,"Improving engagement, compliance, and productivity through easy access to tasks and resources",CSCO
+611,cisco.com,Mexico,Whatfix Hub,positioning,Shaping security posture and compliance through quality assurance processes,CSCO
+612,cisco.com,Mexico,Whatfix Hub,positioning,Aligning with technological trends and driving technical direction,CSCO
+613,alcon.com,Mexico,Whatfix Hub,positioning,"Centralizing onboarding, resource access, and communication for global IT projects",ALC
+614,alcon.com,Mexico,Whatfix Hub,positioning,"Facilitating easy access to tasks, resources, and notifications for remote teams",ALC
+615,alcon.com,Mexico,Whatfix Hub,positioning,"Improving engagement, compliance, and productivity across different geographies",ALC
+616,cisco.com,United States,Whatfix Hub,positioning,Centralized onboarding and resource access for new employees,CSCO
+617,cisco.com,United States,Whatfix Hub,positioning,Enhanced security incident response through guided workflows,CSCO
+618,cisco.com,United States,Whatfix Hub,positioning,Improved technical support for Cisco security products,CSCO
+619,cisco.com,United States,Whatfix Hub,positioning,Streamlined inventory management experience for customers,CSCO
+620,firstcitizens.com,United States,Whatfix Hub,positioning,"Centralizing onboarding, resource access, and communication for IT services",FCNCA
+621,firstcitizens.com,United States,Whatfix Hub,positioning,"Empowering employees through a desktop widget for easy access to tasks, resources, and notifications",FCNCA
+622,firstcitizens.com,United States,Whatfix Hub,positioning,"Enhancing operational procedures for Joiners, Movers and Leavers as well as the certification process",FCNCA
+623,firstcitizens.com,United States,Whatfix Hub,positioning,Aiding in technology adoption and training to advance end user productivity and data security,FCNCA
+624,alcon.com,United States,Whatfix Hub,positioning,Whatfix Hub centralizes onboarding and resource access for IT strategy alignment.,ALC
+625,alcon.com,United States,Whatfix Hub,positioning,Facilitates easy access to tasks and resources for value extraction from enterprise platforms.,ALC
+626,alcon.com,United States,Whatfix Hub,positioning,Improves deployment and onboarding for digital products in the US market.,ALC
+627,alcon.com,United States,Whatfix Hub,positioning,Enhances large scale automation and governance processes.,ALC
+628,alcon.com,United States,Whatfix Hub,positioning,Aids in IT audit and risk advisory through process documentation and training.,ALC
+629,maersk.com,Philippines,Whatfix Hub,positioning,"Whatfix Hub centralizes onboarding, resource access, and communication",AMKBY
+630,maersk.com,Philippines,Whatfix Hub,positioning,"Improves engagement, compliance, and productivity",AMKBY
+631,maersk.com,Philippines,Whatfix Hub,positioning,"Facilitates easy access to tasks, resources, and notifications",AMKBY
+632,maersk.com,Philippines,Whatfix Hub,positioning,Supports continuous improvement of SOC capabilities,AMKBY
+633,maersk.com,India,Whatfix Hub,positioning,Centralized incident management and network operations strategy,AMKBY
+634,maersk.com,India,Whatfix Hub,positioning,Supporting new WMS and TMS implementations with onboarding and resource access,AMKBY
+635,maersk.com,India,Whatfix Hub,positioning,Comprehensive approach for agile program management and ways of working,AMKBY
+636,maersk.com,India,Whatfix Hub,positioning,Enhancing technology operations to become operationally excellent,AMKBY
+637,maersk.com,Mexico,Whatfix Hub,positioning,Centralizing onboarding and resource access for global impact,AMKBY
+638,maersk.com,Mexico,Whatfix Hub,positioning,Improving employee experience and engagement through easy access to tasks and resources,AMKBY
+639,maersk.com,Mexico,Whatfix Hub,positioning,Facilitating training sessions to enhance user knowledge and proficiency,AMKBY
+640,maersk.com,Mexico,Whatfix Hub,positioning,Supporting incident management processes specific to FbM for timely issue resolution,AMKBY
+641,maersk.com,Mexico,Whatfix Hub,positioning,Enabling continuous improvement and automation within FbM support operations,AMKBY
+642,maersk.com,Morocco,Whatfix Hub,positioning,Centralize technology support and service management for global integrator strategy,AMKBY
+643,maersk.com,Morocco,Whatfix Hub,positioning,Enhance IT support strategy for global Terminals with easy access to resources and notifications,AMKBY
+644,maersk.com,Morocco,Whatfix Hub,positioning,Improve support processes and efficiency through centralized onboarding and resource access,AMKBY
+645,maersk.com,Morocco,Whatfix Hub,positioning,"Facilitate easy access to tasks, resources, and notifications for global support teams",AMKBY
+646,maersk.com,Morocco,Whatfix Hub,positioning,"Drive engagement, compliance, and productivity through centralized onboarding and communication",AMKBY
+647,maersk.com,United States,Whatfix Hub,positioning,"Centralizing onboarding, resource access, and communication for a seamless employee experience",AMKBY
+648,maersk.com,United States,Whatfix Hub,positioning,"Improving engagement, compliance, and productivity through easy access to tasks, resources, and notifications",AMKBY
+649,maersk.com,United States,Whatfix Hub,positioning,Enhancing problem management processes with structured approach and Six Sigma methodology,AMKBY
+650,maersk.com,United States,Whatfix Hub,positioning,Driving speedy completion of problem RCA’s and improvement plans across platforms and brands,AMKBY
+651,cisco.com,United States,Whatfix Mirror,initiatives,Government regulated cloud compliance,CSCO
+652,cisco.com,United States,Whatfix Mirror,initiatives,Cloud infrastructure reliability and security,CSCO
+653,cisco.com,United States,Whatfix Mirror,initiatives,Agile transformation and program management,CSCO
+654,cisco.com,United States,Whatfix Mirror,initiatives,Technical program operations and delivery,CSCO
+655,alcon.com,United States,Whatfix Mirror,initiatives,Deliver the strategic vision for Digital Health and manage program execution,ALC
+656,alcon.com,United States,Whatfix Mirror,initiatives,"Lead and execute governance, value assurance, metrics and measurement for Digital Health",ALC
+657,alcon.com,United States,Whatfix Mirror,initiatives,Develop and define overall governance plan for Digital Health strategy,ALC
+658,alcon.com,United States,Whatfix Mirror,initiatives,Create effective management routines to integrate projects and identify issues early,ALC
+659,alcon.com,United States,Whatfix Mirror,initiatives,Establish and track communications plans and initiatives for Digital Health,ALC
+660,alcon.com,United States,Whatfix Mirror,initiatives,Support knowledge transfer and onboarding materials for Digital Health,ALC
+661,firstcitizens.com,United States,Whatfix Mirror,initiatives,Enhancing digital workplace communication and training programs,FCNCA
+662,firstcitizens.com,United States,Whatfix Mirror,initiatives,Improving end user productivity and data security through effective adoption programs,FCNCA
+663,firstcitizens.com,United States,Whatfix Mirror,initiatives,Advancing adoption of office technology solutions in SVB offices,FCNCA
+664,firstcitizens.com,United States,Whatfix Mirror,initiatives,"Developing and implementing information security strategies in large, complex environments",FCNCA
+665,maersk.com,United Kingdom,Whatfix Mirror,initiatives,Digitizing Maersk business processes and customer engagement,AMKBY
+666,maersk.com,United Kingdom,Whatfix Mirror,initiatives,Modernizing technology services to enable Maersk to become a logistics integrator,AMKBY
+667,maersk.com,United Kingdom,Whatfix Mirror,initiatives,Improving network reliability and performance for global connectivity,AMKBY
+668,maersk.com,United Kingdom,Whatfix Mirror,initiatives,Enabling a transformational journey with career development opportunities,AMKBY
+669,maersk.com,India,Whatfix Mirror,initiatives,Optimizing end-to-end People processes for Talent including Performance & Learning,AMKBY
+670,maersk.com,India,Whatfix Mirror,initiatives,"Designing, implementing, and managing complex ServiceNow solutions",AMKBY
+671,maersk.com,India,Whatfix Mirror,initiatives,Building and operating world-class network and perimeter platforms and products,AMKBY
+672,maersk.com,India,Whatfix Mirror,initiatives,"Leading the technical vision, design, and build quality of network and perimeter capabilities",AMKBY
+673,cisco.com,United States,Whatfix Mirror,team,ONEx Technical Program Management team,CSCO
+674,cisco.com,United States,Whatfix Mirror,team,Site Reliability Engineer Technical Leader,CSCO
+675,cisco.com,United States,Whatfix Mirror,team,Transition Program Manager (PgM),CSCO
+676,cisco.com,United States,Whatfix Mirror,team,Program leadership team,CSCO
+677,alcon.com,United States,Whatfix Mirror,team,Digital Health team at Alcon,ALC
+678,firstcitizens.com,United States,Whatfix Mirror,team,EUS leadership and engineering teams,FCNCA
+679,firstcitizens.com,United States,Whatfix Mirror,team,SVBers,FCNCA
+680,firstcitizens.com,United States,Whatfix Mirror,team,"IT management, regulators, internal audit, and business partners",FCNCA
+681,maersk.com,United Kingdom,Whatfix Mirror,team,Global CTIO,AMKBY
+682,maersk.com,United Kingdom,Whatfix Mirror,team,Network Reliability Engineering,AMKBY
+683,maersk.com,United Kingdom,Whatfix Mirror,team,Technology function,AMKBY
+684,maersk.com,India,Whatfix Mirror,team,People Function - Talent including Performance & Learning,AMKBY
+685,maersk.com,India,Whatfix Mirror,team,ServiceNow Platform Team,AMKBY
+686,maersk.com,India,Whatfix Mirror,team,Network Architecture & Engineering Team,AMKBY
+687,cisco.com,United States,Whatfix Mirror,tools,JIRA,CSCO
+688,cisco.com,United States,Whatfix Mirror,tools,SharePoint,CSCO
+689,cisco.com,United States,Whatfix Mirror,tools,Miro or other whiteboarding tool,CSCO
+690,cisco.com,United States,Whatfix Mirror,tools,Office365,CSCO
+691,cisco.com,United States,Whatfix Mirror,tools,Terraform,CSCO
+692,cisco.com,United States,Whatfix Mirror,tools,AWS,CSCO
+693,cisco.com,United States,Whatfix Mirror,tools,DataDog,CSCO
+694,cisco.com,United States,Whatfix Mirror,tools,CloudWatch,CSCO
+695,cisco.com,United States,Whatfix Mirror,tools,Vault,CSCO
+696,cisco.com,United States,Whatfix Mirror,tools,Packer,CSCO
+697,cisco.com,United States,Whatfix Mirror,tools,Docker,CSCO
+698,cisco.com,United States,Whatfix Mirror,tools,Jenkins,CSCO
+699,maersk.com,India,Whatfix Mirror,tools,RPA software,AMKBY
+700,maersk.com,India,Whatfix Mirror,tools,ARIS,AMKBY
+701,maersk.com,India,Whatfix Mirror,tools,Celonis,AMKBY
+702,maersk.com,India,Whatfix Mirror,tools,Infrastructure as code (IaC),AMKBY
+703,cisco.com,United States,Whatfix Mirror,positioning,Enhances program materials development and governance processes,CSCO
+704,cisco.com,United States,Whatfix Mirror,positioning,Simplified deployment and maintenance capabilities for cloud infrastructure,CSCO
+705,cisco.com,United States,Whatfix Mirror,positioning,Interactive and visual workflows for agile transformation,CSCO
+706,cisco.com,United States,Whatfix Mirror,positioning,Practice environment for onboarding and proficiency,CSCO
+707,alcon.com,United States,Whatfix Mirror,positioning,Whatfix Mirror can provide immersive and interactive training for Digital Health initiatives,ALC
+708,alcon.com,United States,Whatfix Mirror,positioning,Simplified deployment and maintenance capabilities of Whatfix Mirror can reduce training costs,ALC
+709,alcon.com,United States,Whatfix Mirror,positioning,Hyper-realistic environment of Whatfix Mirror can enhance onboarding and proficiency,ALC
+710,firstcitizens.com,United States,Whatfix Mirror,positioning,Provides hyper-realistic environment for immersive and interactive training on web applications,FCNCA
+711,firstcitizens.com,United States,Whatfix Mirror,positioning,Simplified deployment and maintenance capabilities reduce training costs,FCNCA
+712,firstcitizens.com,United States,Whatfix Mirror,positioning,"Enhances onboarding and proficiency, driving end user productivity",FCNCA
+713,firstcitizens.com,United States,Whatfix Mirror,positioning,Increases application adoption and compliance with data security policies,FCNCA
+714,maersk.com,United Kingdom,Whatfix Mirror,positioning,Enhances digitization of business processes and customer engagement,AMKBY
+715,maersk.com,United Kingdom,Whatfix Mirror,positioning,Simplifies technology modernization for logistics integration,AMKBY
+716,maersk.com,United Kingdom,Whatfix Mirror,positioning,Improves network reliability and performance for global connectivity,AMKBY
+717,maersk.com,United Kingdom,Whatfix Mirror,positioning,Facilitates immersive and interactive training for career development,AMKBY
+718,maersk.com,India,Whatfix Mirror,positioning,Whatfix Mirror can provide immersive and interactive training for optimizing People processes,AMKBY
+719,maersk.com,India,Whatfix Mirror,positioning,Whatfix Mirror can simplify onboarding and proficiency with ServiceNow solutions,AMKBY
+720,maersk.com,India,Whatfix Mirror,positioning,Whatfix Mirror offers hyper-realistic environment for training on network and perimeter platforms,AMKBY
+721,maersk.com,India,Whatfix Mirror,positioning,Whatfix Mirror's simplified deployment can aid in building and operating world-class network capabilities,AMKBY
+722,maersk.com,Denmark,Whatfix Product Analytics,initiatives,Transforming digital proposition to omni-channel experience for personalized logistics solutions,AMKBY
+723,maersk.com,Denmark,Whatfix Product Analytics,initiatives,"Standardizing processes, digitizing offline journeys, and redesigning customer experience",AMKBY
+724,maersk.com,Denmark,Whatfix Product Analytics,initiatives,Improving industry knowledge and building communication and commercial skills,AMKBY
+725,maersk.com,Denmark,Whatfix Product Analytics,initiatives,Setting measurable goals for product and reporting progress against stated benefits,AMKBY
+726,maersk.com,Denmark,Whatfix Product Analytics,initiatives,"Engaging with users, customers, and stakeholders to encourage awareness and use of the product",AMKBY
+727,firstcitizens.com,United States,Whatfix Product Analytics,initiatives,Enhancing digital onboarding experience for global clients,FCNCA
+728,firstcitizens.com,United States,Whatfix Product Analytics,initiatives,Improving profitability and growth of Lockbox and eReceivables products,FCNCA
+729,firstcitizens.com,United States,Whatfix Product Analytics,initiatives,Driving product strategy and lifecycle management for core business products,FCNCA
+730,firstcitizens.com,United States,Whatfix Product Analytics,initiatives,Leveraging data to generate actionable insights for product performance,FCNCA
+731,firstcitizens.com,United States,Whatfix Product Analytics,initiatives,Supporting agile product development process and delivery of client-facing solutions,FCNCA
+732,cisco.com,United States,Whatfix Product Analytics,initiatives,AI/ML product strategy and roadmap for GenAI,CSCO
+733,cisco.com,United States,Whatfix Product Analytics,initiatives,Data powered products for enterprise IT workflows,CSCO
+734,cisco.com,United States,Whatfix Product Analytics,initiatives,AI-based growth marketing strategies,CSCO
+735,cisco.com,United States,Whatfix Product Analytics,initiatives,"Product strategy, vision, and orchestration for SaaS Products",CSCO
+736,alcon.com,United States,Whatfix Product Analytics,initiatives,Developing a data product and analytics platform vision aligned with overall business goals of Digital Health,ALC
+737,alcon.com,United States,Whatfix Product Analytics,initiatives,Leading the development and execution of the Vision Care product roadmap and schedule,ALC
+738,alcon.com,United States,Whatfix Product Analytics,initiatives,Driving the implementation of key features and enhancements in support of the product innovation strategy for Vision Care Digital Health,ALC
+739,alcon.com,United States,Whatfix Product Analytics,initiatives,Spearheading the development and execution of digital health data and analytics product vision and strategy,ALC
+740,alcon.com,United States,Whatfix Product Analytics,initiatives,Leading the Corporate Strategy function for the Alcon Digital Health organization,ALC
+741,maersk.com,India,Whatfix Product Analytics,initiatives,Optimize vessel utilization and reduce carbon footprint,AMKBY
+742,maersk.com,India,Whatfix Product Analytics,initiatives,Build the definitive Global Data & Analytics (GDA) strategy,AMKBY
+743,maersk.com,India,Whatfix Product Analytics,initiatives,"Enhance scalability, performance, and resilience of workforce management solutions",AMKBY
+744,maersk.com,India,Whatfix Product Analytics,initiatives,Empower organizations to optimize workforce efficiency and productivity,AMKBY
+745,maersk.com,Denmark,Whatfix Product Analytics,team,Business platform team,AMKBY
+746,maersk.com,Denmark,Whatfix Product Analytics,team,http://maersk.com/Maersk.com product team,AMKBY
+747,firstcitizens.com,United States,Whatfix Product Analytics,team,SVB-DC & SOS Bank Product,FCNCA
+748,firstcitizens.com,United States,Whatfix Product Analytics,team,TREAS PROD MGT PYMT,FCNCA
+749,firstcitizens.com,United States,Whatfix Product Analytics,team,SVB-Credit Product Mngmt,FCNCA
+750,cisco.com,United States,Whatfix Product Analytics,team,Outshift by Cisco - GenAI team,CSCO
+751,cisco.com,United States,Whatfix Product Analytics,team,Cisco Meraki - Data Science and Product teams,CSCO
+752,cisco.com,United States,Whatfix Product Analytics,team,Cisco Marketing Strategy team,CSCO
+753,cisco.com,United States,Whatfix Product Analytics,team,Cisco's Acceleration Center - Product Management team,CSCO
+754,alcon.com,United States,Whatfix Product Analytics,team,Digital Health team,ALC
+755,alcon.com,United States,Whatfix Product Analytics,team,Vision Care Digital Health team,ALC
+756,alcon.com,United States,Whatfix Product Analytics,team,Product team,ALC
+757,alcon.com,United States,Whatfix Product Analytics,team,Corporate Strategy function for the Alcon Digital Health organization,ALC
+758,maersk.com,India,Whatfix Product Analytics,team,"Director – Data, AI & Platform(GDA)",AMKBY
+759,maersk.com,India,Whatfix Product Analytics,team,Platform team in people function,AMKBY
+760,maersk.com,Denmark,Whatfix Product Analytics,positioning,Whatfix Product Analytics can provide detailed insights into user interactions with the digital proposition and omni-channel experience,AMKBY
+761,maersk.com,Denmark,Whatfix Product Analytics,positioning,The platform can help in tracking and understanding crucial metrics to support the standardization and redesigning of customer experience,AMKBY
+762,maersk.com,Denmark,Whatfix Product Analytics,positioning,"Enables setting and tracking measurable goals for the product, ensuring progress against stated benefits",AMKBY
+763,maersk.com,Denmark,Whatfix Product Analytics,positioning,"Facilitates engagement with users, customers, and stakeholders through customized dashboards and data analysis",AMKBY
+764,firstcitizens.com,United States,Whatfix Product Analytics,positioning,Whatfix Product Analytics enables seamless digital onboarding experiences with data visualization & analytics,FCNCA
+765,firstcitizens.com,United States,Whatfix Product Analytics,positioning,Whatfix Product Analytics supports product strategy and lifecycle management through customized dashboards,FCNCA
+766,firstcitizens.com,United States,Whatfix Product Analytics,positioning,Whatfix Product Analytics provides actionable insights for product performance and agile development process,FCNCA
+767,cisco.com,United States,Whatfix Product Analytics,positioning,Whatfix Product Analytics provides insights for AI/ML strategy and roadmap,CSCO
+768,cisco.com,United States,Whatfix Product Analytics,positioning,Enables data-powered product development and analytics for enterprise IT workflows,CSCO
+769,cisco.com,United States,Whatfix Product Analytics,positioning,Facilitates AI-based growth marketing strategies and customer behavior analysis,CSCO
+770,cisco.com,United States,Whatfix Product Analytics,positioning,Aids in defining and prioritizing strategic programs for SaaS product development,CSCO
+771,alcon.com,United States,Whatfix Product Analytics,positioning,Whatfix Product Analytics can provide detailed insights into user interactions with the digital health data and analytics platform,ALC
+772,alcon.com,United States,Whatfix Product Analytics,positioning,"It can enhance user engagement, retention, and decision-making by enabling tracking and understanding of crucial metrics",ALC
+773,alcon.com,United States,Whatfix Product Analytics,positioning,The no-code visual editor for easy data capture and analysis ensures data consistency even after UI updates,ALC
+774,alcon.com,United States,Whatfix Product Analytics,positioning,Customized dashboards can provide actionable insights for the Vision Care product roadmap and schedule,ALC
+775,alcon.com,United States,Whatfix Product Analytics,positioning,It can aid in aligning the data product and analytics platform vision with overall business goals of Digital Health,ALC
+776,maersk.com,India,Whatfix Product Analytics,positioning,Whatfix Product Analytics provides insights to optimize vessel utilization and reduce carbon footprint,AMKBY
+777,maersk.com,India,Whatfix Product Analytics,positioning,Enables building a definitive Global Data & Analytics (GDA) strategy through data capture and analysis,AMKBY
+778,maersk.com,India,Whatfix Product Analytics,positioning,"Enhances scalability, performance, and resilience of workforce management solutions",AMKBY
+779,maersk.com,India,Whatfix Product Analytics,positioning,Empowers organizations to optimize workforce efficiency and productivity through customized dashboards,AMKBY
