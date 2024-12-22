@@ -97,7 +97,7 @@ key_phrases =  ["Mindtickle's sales enablement platform offers comprehensive tra
 
 def pipeline(company_name, ticker, key_phrases, directory_path="./SEC-EDGAR-text"):
 
-    client = OpenAI(api_key='sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw')
+    client = OpenAI(api_key='')
     company_name = company_name
     instruction_prompt = f"""
     You are an expert data analyst. Your task is to review the text files meticulously to find matches of strategies and initiatives that align with the product descriptions of {company_name} as mentioned in the messages. For each match found, provide the following:

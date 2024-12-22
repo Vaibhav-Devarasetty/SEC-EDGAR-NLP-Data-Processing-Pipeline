@@ -121,11 +121,11 @@ def make_file_from_chunks(texts, file_path, domain):
 
 def get_embedding(text, model="text-embedding-3-small"):
     text = text.replace("\n", " ")
-    client = OpenAI(api_key='sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw')
+    client = OpenAI(api_key='')
     return client.embeddings.create(input = [text], model=model).data[0].embedding
 
 def create_vector_store(file_paths):
-    client = OpenAI(api_key='sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw')
+    client = OpenAI(api_key='')
     vector_store = client.beta.vector_stores.create(name="Company Filings")
 
     fps = []
@@ -247,7 +247,7 @@ def pipeline(company_name, ticker, key_phrases, domain, directory_path="./SEC-ED
         for chunk in related_chunks:
             file.write(chunk + "\n\n")
 
-    os.environ['OPENAI_API_KEY'] = "sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw"
+    os.environ['OPENAI_API_KEY'] = ""
 
     # Load the document, split it into chunks, embed each chunk and load it into the vector store.
     raw_documents = TextLoader(domain_summary_file).load()

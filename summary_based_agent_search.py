@@ -105,11 +105,11 @@ def summarize_chunks(chunks, file_path):
 
 def get_embedding(text, model="text-embedding-3-small"):
     text = text.replace("\n", " ")
-    client = OpenAI(api_key='sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw')
+    client = OpenAI(api_key='')
     return client.embeddings.create(input = [text], model=model).data[0].embedding
 
 def create_vector_store(file_paths):
-    client = OpenAI(api_key='sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw')
+    client = OpenAI(api_key='')
     vector_store = client.beta.vector_stores.create(name="Company Filings")
 
     fps = []
@@ -152,7 +152,7 @@ def quote_original_text(results, original_chunks, key_phrases):
     return quotes
 
 def pipeline(company_name, ticker, key_phrases, domain, directory_path="./SEC-EDGAR-text"):
-    client = OpenAI(api_key='sk-proj-rnvImRGIkwtlOigie9LHT3BlbkFJyvbASU5Iqj9yyPewC5bw')
+    client = OpenAI(api_key='')
     instruction_prompt = f"""
     You are an expert data analyst. Your task is to review the text files meticulously to find matches of {domain} strategies and {domain} initiatives that align with the product descriptions of {company_name} as mentioned in the messages. For each match found, provide the following:
 
